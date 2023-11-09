@@ -1,7 +1,7 @@
-function f1(){
-      console.log("normal function");
-     }
+function f2() {
+    console.log("normal function");
+}
 
-     const f2=()=>{
-      console.log("arrow function");
-     }
+const f2 = () => {
+    console.log("arrow function");
+}
